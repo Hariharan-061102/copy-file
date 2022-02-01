@@ -28,7 +28,7 @@ with open('file2.txt','w') as file2:
             file2.write(words)
 ~~~
 ### OUTPUT:
-![output](x.jpg)
+![output](screen.jpg)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
